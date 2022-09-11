@@ -1,0 +1,30 @@
+
+Sobre Git & GitHub [https://git-scm.com/docs] [https://www.youtube.com/watch?v=6OokP-NE49k&t=974s&ab_channel=FabioAkita]
+
+/*Sequência de comandos para Fluxo do Git*/
+
+# git clone - Para baixar o projeto a primeira vez na sua máquina.
+
+# git add - Para adicionar os arquivos nos commits.
+
+# git commit -m "mensagem da alteração" - Para formalizaar as mudanças
+
+# git push - Para subir as alterações no GitHub *trabalho finalizado.
+
+# git pull - Para receber o código atualizado. *Para poder iniciar o trabalho sempre na última versão.
+
+
+
+/*Outros comandos utilizados*/
+
+# git checkout - Para mudar de branch exemplo []
+
+# git status - Para verificar o status das modificações.
+
+# git log - exibe os registros dos commmits.
+
+# --amend - Para concertar erros nas mensagens que vão entre aspas nos commits. exemplo  [(git commit -m "Escrevi errado" "Excirbi erado")  
+(git commit -m "Escrevi errado" --amend) ]
+
+# git reset --soft Head~2 - Para remover os dois últimos commits, mantendo as modificações. Depois é realizar um novo commit.
+
