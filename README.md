@@ -1,4 +1,4 @@
-# Trybe
+# Trybe-fluxo-de-exercícios
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Jackson Souza Santos] (https://www.linkedin.com/in/jackson-santos-574883230/)_ no período de estudo na [Trybe](https://www.betrybe.com/) :rocket:
 
