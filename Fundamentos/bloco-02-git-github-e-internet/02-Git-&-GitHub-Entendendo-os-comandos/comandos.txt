@@ -15,7 +15,9 @@ Sobre Git & GitHub [https://git-scm.com/docs] [https://www.youtube.com/watch?v=6
 
 
 
-/*Outros comandos utilizados*/
+/*Outros comandos mais utilizados*/
+
+#git checkout -b nome_da_branch (Muda e cria outra branch ao mesmo tempo)
 
 # git checkout - Para mudar de branch exemplo []
 
