@@ -2,7 +2,7 @@
 
 
 
-O que vamos aprender?  🤓
+O que vamos aprender? 🤓
 
 * Aqui você vai aprender como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos.
 
