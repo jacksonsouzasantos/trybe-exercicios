@@ -1,0 +1,108 @@
+body {
+    font-family: Montserrat, sans-serif;
+    margin: 0;
+  }
+
+  p, li {
+    color: #475550;
+    font-size: 16px;
+  }
+
+  h1 {
+    color: #0a7e51;
+  }
+
+  h3, .trybe-green {
+    color: #11a36a;
+  }
+
+  .header {
+    /* border: 2px solid red; */
+    background-image: url(/assets/img-bloco-3/smiling-image.jpg);
+    background-size: cover;
+    background-position: 50% 25%;
+    padding: 60px 30px 40px;
+  }
+
+  .header-content{
+    /* border: 2px solid red; */
+    width: 50%;
+    padding-left: 60px;
+  }
+
+  .header-content p{
+    width: 80%;
+  }
+
+  .text-centered {
+    text-align: center;
+  }
+
+  .marketing{
+    /* border: 2px solid red; */
+    width: 80%;
+    padding: 84px 30px;
+    margin: auto;
+  }
+
+  .market-heading {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .testimonial-wrapper{
+    border: 2px red solid;
+    width: 80%;
+    margin: auto;
+  }
+
+  .student-testimonial{
+    border: 2px red solid;
+    width: 30%;
+    margin: 10px;
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.formation{
+    background-color: #eee;
+}
+
+.formation-left{
+    float: left;
+}
+
+.formation-right{
+    float: right;
+}
+
+.footer{
+    clear: both;
+}
+
+  .foto-de-perfil {
+    border-radius: 100%;
+  }
+
+  .student-name {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+  }
+
+  .botao {
+    color: #fff;
+    background-color: #11a36a;
+    border-radius: 4px;
+    padding: 15px 30px;
+    text-decoration: none;
+  }
+
+  
+
+  /* #exemplo {
+    color:darkturquoise
+  } */
