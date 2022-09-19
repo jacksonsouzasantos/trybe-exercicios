@@ -16,9 +16,11 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
 ##### Bloco 2: Git & GitHub
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+ [:white_check_mark:] 2-1: _O que é e para que serve?_
+ 
+ [:white_check_mark:] 2-2: _Entendendo os comandos_
+ 
+ [:white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS
 
