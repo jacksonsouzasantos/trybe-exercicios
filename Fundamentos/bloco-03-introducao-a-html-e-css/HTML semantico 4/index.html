@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>nationalgeographic.Stomatopoda</title>
 </head>
 <body>
     <header>
-       <h1>Soco a 80km/h: Conheça o Stomatopoda.<h1>
-        <nav>
-            <ul>
+       <h1 id="cabecalho">Soco a 80km/h: Conheça o Stomatopoda.<h1>
+        <nav id="navbar">
+            <ul id="list">
               <li><a href="#">Página inicial</a></li>
               <li><a href="#">Sobre</a></li>
               <li><a href="#">Contato</a></li>
@@ -18,12 +19,17 @@
           </nav>
     </header>
     <main>
+      <div id="Subtitulo">
         <h1>Stomatopoda</h1>
+      </div>
         <article>
-            <h2>Fatos sobre o Stomatopoda</h2>
-            <h3>Odontodactylus scyllarus</h3>
+          <div id="article">
+            <h3>Fatos sobre o Stomatopoda Odontodactylus scyllarus</h3>
+            <div  class="textoP">
             <p>Stomatopoda (ou estomatópode), chamados popularmente de tamarutacas ou de lacraias-do-mar no Brasil, é uma ordem de crustáceos marinhos da subclasse Hoplocarida, <br> que agrupa cerca de 400 espécies, caracterizadas principalmente pela morfologia da segunda pata torácica, que é modificada em apêndice subquelado, lembrando uma pata de louva-a-deus.[2]</p> 
              <img src="/Fundamentos/bloco-03-introducao-a-html-e-css/HTML semantico 4/download (1).jpeg" alt="uma lagosta">
+           </div>
+            </div>
         </article>
         <article>
             <h2>Vermelho delicioso</h2>
@@ -32,11 +38,6 @@
               São animais que apresentam comportamentos sociais muito variados, desde ameaças visuais contra predadores até comportamentos de côrte. De acordo com a anatomia da sua pata raptorial é possível distinguir entre dois grupos funcionais, as perfuradoras (spearers) ou as esmagadoras (smashers), sendo que cada um dos tipos apresenta sua própria variação comportamental e até mesmo de habitat.</p>
               <img src="/Fundamentos/bloco-03-introducao-a-html-e-css/HTML semantico 4/large.jpeg" alt="lagosta colorida">
           </article>
-          <style>
-            table, th, td {
-              border:1px solid black;
-            }
-            </style>
           <table>
             <tr>
               <th>Reino</th>
@@ -55,11 +56,12 @@
               <td>Stomatopoda</td>
             </tr>
           </table>
-    </main>
-    <section>
+          <section>
       <img src="/Fundamentos/bloco-03-introducao-a-html-e-css/HTML semantico 4/download.jpeg" alt="crustaceo no fundo do mar">
       <a href="https://www.youtube.com/watch?v=3fFhsewo5oU&ab_channel=Aqu%C3%A1rioMarinho-ReefMarinho" target="_blank">Veja o video desse animal em ação</a>
       </section>
+    </main>
+    
       <footer>
         <p>author: jackson santos</p>
       </footer>
