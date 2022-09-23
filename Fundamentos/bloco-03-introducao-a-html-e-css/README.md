@@ -4,7 +4,8 @@
 
 O que vamos aprendemos? 🤓
 
-* Aqui viomos como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos.
+* Aqui viomos como estruturar páginas HTML estilizadas com o CSS de uma forma muito prática e criando vários projetos. Além de nossa introdução ao java Script
+
 
 _Para isso, o conteúdo foi dividido em quatro partes_:
 
