@@ -1,0 +1,95 @@
+/*Requisitos completos*/
+body {
+    font-size: 100%;
+    list-style-type: none;
+}
+
+body {
+    background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #1abc9c;
+
+}
+
+#titulo {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+img {
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 16px;
+    width: 45%;
+    margin: 150px 0px 0px 0px;
+}
+
+.info {
+    font-size: 10px;
+    font: bold;
+    margin-left: 20px;
+}
+
+#ol,
+#ul {
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+
+}
+
+#artigo {
+    float: left;
+    width: 200px;
+    background-color: lightgray;
+}
+
+#artigo>h4,
+#artigo {
+    margin: 0px;
+    padding: 10px;
+    margin-bottom: 33px;
+    margin-left: 150px;
+}
+
+#artigo>h4 p {
+    margin: 0;
+    font-size: 90%;
+}
+
+#aside {
+    margin: 0px;
+    float: right;
+    top: 100px;
+    width: 180px;
+    height: 350px;
+    padding: 20px;
+    margin-right: 150%;
+    font-style: italic;
+    background-color: lightgray;
+}
+
+table,
+th,
+td {
+    border: 3px solid black;
+    margin-bottom: 30px;
+
+}
+
+#rodape {
+    text-align: center;
+    padding: 10px;
+    background-color: #1abc9c;
+    color: white;
+}
