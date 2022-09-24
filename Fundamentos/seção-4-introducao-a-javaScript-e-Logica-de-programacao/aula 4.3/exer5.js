@@ -18,5 +18,5 @@
 }
 console.log("  Catarina tem " + Catarina + " anos");
 console.log("  Mariana tem " + Mariana + " anos");
-console.log(" pessoa é a mais nova tem " + Floriano + " anos");
+console.log(" Floriano tem " + Floriano + " anos");
 
