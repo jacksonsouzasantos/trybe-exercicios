@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(239, 239, 239);
+  font-family: Inknut Antiqua, serif;
+}
+
+header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+header h1 {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.trybewarts-header-logo {
+  width: 75px;
+  margin-left: 20px;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+}
+
+#trybewarts-forms-logo {
+  align-items: flex-end;
+  height: 500px;
+  align-self: center;
+}
+
+.trybewarts-login input .trybewarts-login .button {
+  border-radius: 7px;
+  padding: 10px;
+  margin-right: 10px;
+  width: 40%;
+}
+
+.button .trybewarts-login {
+  height: 35px;
+  padding: 2px;
+  background-color: rgb(78, 44, 131);
+  color: white;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  align-items: center;
+  flex-flow: column wrap;
+}
+
+#evaluation-form h2 {
+  align-self: center;
+}
+
+#family-subject {
+  display: flex;
+}
+
+#house-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#house-container input {
+  border-radius: 7px;
+  padding: 10px;
+  margin-right: 2px;
+  margin-bottom: 8px;
+  width: 49%;
+  border: none;
+}
+
+#house-container select {
+  border-radius: 7px;
+  padding: 10px;
+  margin-right: 2px;
+  width: 36%;
+  border: none;
+  background-color: white;
+}
+
+#family-container {
+  align-self: flex-start;
+  width: 35%;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+}
+
+#subject-container {
+  display: flex;
+  flex-flow: column wrap;
+  width: 50%;
+  align-self: flex-end;
+  flex-grow: 1;
+}
+
+#subjects {
+  display: flex;
+  flex-flow: row wrap;
+  flex-basis: 30%;
+  margin-left: 2px;
+}
+
+.radio-check {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 10px;
+  min-width: 300px;
+}
+
+#evaluation-form , .radio-check , .radio-check div , .content-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.radio-check , .content-box {
+  margin-bottom: 10px;
+}
+
+.content-box {
+  max-width: 240px;
+}
+
+hr {
+  width: 100%;
+  margin: 10px 0;
+}
+
+#textArea-container p {
+  align-self: flex-end;
+}
+
+.textarea {
+  resize: none;
+  border-color: rgb(78, 44, 131);
+}
+
+#textArea-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+}
+
+#counter {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  position: relative;
+  bottom: 16px;
+  right: 85px;
+  font-size: 12px;
+}
+
+#agreement-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#agreement-container input {
+  margin-left: 10px;
+}
+
+#submit-btn {
+  border-radius: 5px;
+  display: flex;
+  align-self: center;
+  background-color: rgba(78, 44, 131, 255);
+  color: white;
+  border-style: none;
+  width: 100%;
+  padding: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#submit-btn:disabled {
+  opacity: 30%;
+}
+
+footer {
+  display: flex;
+  color: rgb(236, 235, 235);
+  background-color: rgba(60, 64, 74, 255);
+  height: 45px;
+  padding: 8px;
+  justify-content: center;
+  align-items: center;
+}
