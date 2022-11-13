@@ -1,4 +1,5 @@
 import Swal from "sweetalert2";
+import './style.css';
 
 /**capiturando Ids*/
 const searchbutton = document.querySelector(".search-btn");
