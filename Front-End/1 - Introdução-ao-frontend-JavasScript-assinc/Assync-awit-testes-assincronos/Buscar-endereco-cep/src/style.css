@@ -1,4 +1,4 @@
-/* @import url(https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700);
 
 * {
     padding: 0;
@@ -7,10 +7,14 @@
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgba(0, 0, 0, 0.863);
 }
 
-.label {
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+#label {
     position: absolute;
     width: 111px;
     height: 15px;
@@ -24,18 +28,18 @@ body {
     line-height: 16px;
 }
 
-.input {
+#input {
     position: absolute;
     width: 171px;
     height: 48px;
     top: 22px;
     right: -63px;
 
-    background: rgba(0, 0, 0, 0.39);
+    background: rgba(255, 255, 255, 0.678);
     border-radius: 10px;
 }
 
-.search-btn {
+#button {
     box-sizing: border-box;
 
     position: absolute;
@@ -55,29 +59,17 @@ body {
     height: 583px;
     left: 306px;
     top: 290px;
-    background: rgba(22, 20, 20, 0.603);
+    background: rgba(109, 104, 104, 0.904);
     border-radius: 20px;
 }
 
-.coins-title {
+#dados-title {
     text-align: center;
 }
 
-.coins {
-    position: absolute;
-    width: 150px;
-    height: 44px;
-    left: 43px;
-    top: 43px;
-
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
-}
-
-li {
-
-    flex-direction: row;
-    display: table-row;
-
+ul {
+    display: flex;
+    margin-top: 250px;
+    text-align: center;
     color: beige;
-} */
+}

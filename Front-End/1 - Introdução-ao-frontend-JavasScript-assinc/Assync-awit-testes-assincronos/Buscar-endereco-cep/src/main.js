@@ -1,4 +1,5 @@
 import Swal from "sweetalert2";
+import './style.css';
 
 const buttonEl = document.querySelector('#button');
 const inputEl = document.querySelector('#input');
