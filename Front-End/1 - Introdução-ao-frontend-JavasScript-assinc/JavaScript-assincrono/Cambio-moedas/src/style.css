@@ -1,3 +1,83 @@
-body{
+@import url(https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
     background-color: blueviolet;
+}
+
+.label {
+    position: absolute;
+    width: 111px;
+    height: 15px;
+    left: 307px;
+    top: 165px;
+
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.input {
+    position: absolute;
+    width: 171px;
+    height: 48px;
+    top: 22px;
+    right: -63px;
+
+    background: rgba(0, 0, 0, 0.39);
+    border-radius: 10px;
+}
+
+.search-btn {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 171px;
+    height: 54px;
+    left: 491px;
+    top: 185px;
+
+    background: #96EB95;
+    border: 1px solid #96EB95;
+    border-radius: 10px;
+}
+
+.container {
+    position: absolute;
+    width: 900px;
+    height: 583px;
+    left: 306px;
+    top: 290px;
+    background: rgba(22, 20, 20, 0.603);
+    border-radius: 20px;
+}
+
+.coins-title {
+    text-align: center;
+}
+
+.coins {
+    position: absolute;
+    width: 150px;
+    height: 44px;
+    left: 43px;
+    top: 43px;
+
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+li {
+
+    flex-direction: row;
+    display: table-row;
+
+    color: beige;
 }

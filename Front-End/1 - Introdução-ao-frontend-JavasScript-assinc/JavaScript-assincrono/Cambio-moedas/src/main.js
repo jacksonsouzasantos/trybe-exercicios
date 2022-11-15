@@ -21,7 +21,7 @@ function fetchAPI(coin) {
         })
 }
 
-/**criando função responsável por criar as ul de forma dinânmica */
+/**criando função responsável por criar as li de forma dinânmica */
 function renderCoins(coins) {
     coinList.innerHTML = '';
 
@@ -33,7 +33,7 @@ function renderCoins(coins) {
         console.log(coinName)
         console.log(value)
 
-        /**inserindo resultado nas lis */
+        /**inserindo resultado nas li */
         const li = document.createElement('li');
         li.textContent = `${coinName} - ${value}`;
         coinList.appendChild(li);
@@ -68,5 +68,3 @@ function handleSearch() {
 
 }
 searchbutton.addEventListener('click', handleSearch);
-
-
