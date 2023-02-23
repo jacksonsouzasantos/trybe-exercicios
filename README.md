@@ -10,137 +10,221 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-  [:white_check_mark:] 1-3: _Unix & Shell- Part 1_
+  [:white_check_mark:] 1-1: _Unix & Shell - Forma de interação via linha de comando_
 
-  [:white_check_mark:] 1-4: _Unix & Shell- Part 2_
+  [:white_check_mark:] 1-2: _Git & GitHub - O que é para que serve_
+  
+  [:white_check_mark:] 1-3: _Git & GitHub - Entendendo Comandos_
 
-##### Bloco 2: Git & GitHub
 
- [:white_check_mark:] 2-1: _O que é e para que serve?_
- 
- [:white_check_mark:] 2-2: _Entendendo os comandos_
- 
- [:white_check_mark:] 2-3: _Internet - Entendendo como ela funciona_
+##### Bloco 2: Introdução à HTML & CSS
 
-##### Bloco 3: Introdução - HTML & CSS
+ [:white_check_mark:] 2-1: _HTML & CSS - Estruturas da página_
+ 
+ [:white_check_mark:] 2-2: _HTML & CSS - Primeiros passos em CSS_
+ 
+ [:white_check_mark:] 2-3: _HTML & CSS - Seletores e posicionamento_
+ 
+ [:white_check_mark:] 2-4: _HTML Semântico_
+ 
+ [:white_check_mark:] 2-5: _[Projeto - Lesson Learnned()_
 
- [:white_check_mark:] 3-1: _HTML & CSS - Estruturas de página_
  
- [:white_check_mark:] 3-2: _HTML & CSS - Primeiros passos em CSS_
- 
- [:white_check_mark:] 3-3: _HTML & CSS - Seletores e posicionamento_
- 
- [:white_check_mark:] 3-4: _HTML Semântico_
- 
- [:white_check_mark:] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 3: Introdução - JavaScript
 
- [:white_check_mark:] 4-1: _JavaScript - Primeiros passos_
+ [:white_check_mark:] 3-1: _JavaScript - Primeiros passos_
  
- [:white_check_mark:] 4-2: _JavaScript - Array e loop For_
+ [:white_check_mark:] 3-2:  _JavaScript - Array e loop For_
  
- [:white_check_mark:] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+ [:white_check_mark:] 3-3:  _JavaScript - Funções_
  
- [:white_check_mark:] 4-4: _JavaScript - Objetos e funções_
+ [:white_check_mark:] 3-4:  _JavaScript - Objetos_
  
- [:white_check_mark:] 4-5: _[Projeto - Playground Functions]()_
+ [:white_check_mark:] 3-5:  _JavaScript ES6 - let, aonst, arrow function e template literals_
+  
+ [:white_check_mark:] 3-6:  _[Projeto - Playround Function]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
 
- [ :white_check_mark: ] 5-1: _JavaScript - DOM e seletores_
- 
- [ :white_check_mark: ] 5-2: _JavaScript - Trabalhando com elementos_
- 
- [ :white_check_mark: ] 5-3: _JavaScript - Eventos_
- 
- [ :white_check_mark: ] 5-4: _JavaScript - Web Storage_
- 
- [  ] 5-5: _[Projeto - Meme Generator]()_
- 
- [ :white_check_mark: ] 5-6: _[Projeto - Arte com Pixels]()_
- 
- [  ] 5-7: _[Projeto - Lista de tarefas]()_
- 
- [  ] 5-7: _[Projeto - Adivinhe a Cor]()_
- 
- [  ] 5-7: _[Projeto - Carta Misteriosa]()_
+##### Bloco 4: JavaScript - Dom, Eventos e Web Storage
 
-##### Bloco 6: HTML & CSS avançado
-
- [ :white_check_mark: ] 6-1: _HTML & CSS - Forms_
+ [:white_check_mark:] 4-1: _JavaScript - DOM e seletores_
  
- [ :white_check_mark: ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+ [:white_check_mark:] 4-2: _JavaScript - Trabalhando com elementos_
  
- [ :white_check_mark: ] 6-3: _CSS Flexbox - Part 1_
+ [:white_check_mark:] 4-3: _JavaScript - Eventos_
  
- [ :white_check_mark: ] 6-4: _CSS Flexbox - Part 2_
+ [:white_check_mark:] 4-4: _JavaScript - Web Storage_
  
- [ :white_check_mark: ] 6-5: _CSS Responsivo - Mobile First_
+ [:white_check_mark:] 4-5: _[Projeto - Arte com Pixels]()_
  
- [ :white_check_mark: ] 6-6: _[Projeto - Página inicial do Facebook]()_
+ ##### Projetos Bônus 
+ 
+ [  ] 4-6: _[Projeto - Lista de tarefas]()_
+ 
+ [  ] 4-7: _[Projeto - Adivinhe a Cor]()_
+ 
+ [  ] 4-8: _[Projeto - Carta Misteriosa]()_
+ 
+ [  ] 5-9: _[Projeto - Meme Generator]()_
+ 
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 5: HTML e CSS - Forms, Flexbox e Responsivo 
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+ [ :white_check_mark: ] 5-1: _HTML & CSS - Forms_
+ 
+ [ :white_check_mark: ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
+ 
+ [ :white_check_mark: ] 5-3: _CSS Flexbox - Part 1_
+ 
+ [ :white_check_mark: ] 5-4: _CSS Flexbox - Part 2_
+ 
+ [ :white_check_mark: ] 5-5: _CSS Responsivo - Mobile First_
+ 
+ [ :white_check_mark: ] 5-6: _[Trybewarts]()_
+ 
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 6: JavaScript ES6 & Testes Unitários
+ [ :white_check_mark: ] 6-1: _Fluxo de exeções e manipulação de objetos_
+ 
+ [ :white_check_mark: ] 6-2: _Primeiros passos em Jest_
+ 
+ [ :white_check_mark: ] 6-3: _Matchers e cobertura de código_
+ 
+ [ :white_check_mark: ] 6-4: _[JavaScript Testes Unitários]()_
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 7: Higher Order Functions do JavaScript ES6
+ [ :white_check_mark: ] 7-1: _Introdução a Higthe Order Functions
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+ [ :white_check_mark: ] 7-2: _Higher Order Function - sort e map_
 
-##### Bloco 10: Jest
+ [ :white_check_mark: ] 7-3: _Higher Order Function - filter e reduce_
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+ [ :white_check_mark: ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+
+ [ :white_check_mark: ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Objetct propery
+ shorthand e default parameters
+ 
+ [ :white_check_mark: ] 7-6 _[Projeto - Zoo functions()_
+
+## Soft Skills: Seção 1 - Eu e o Mundo :white_check_mark:
+
+ [ :white_check_mark: ] 1-1: _Por que desenvolver soft skills?_
+ 
+ [ :white_check_mark: ] 1-2: _Autoliderança_
+ 
+ [ :white_check_mark: ] 1-3: _Autolidarença: Aprender a aprender e gestão do tempo_
+ 
+ [ :white_check_mark: ] 1-4: _Como pedir ajuda?_
+ 
+ [ :white_check_mark: ] 1-5: _Introdução à comunicação e escuta ativa_
+ 
+ [ :white_check_mark: ] 1-6: _Introdução à assertividade_
+ 
+ [ :white_check_mark: ] 1-7: _Introdução a dar e receber feedbacks_
+ 
+ [ :white_check_mark: ] 1-8: _Como aproveitar um feedBack_
+ 
+ [ :white_check_mark: ] 1-9: _Diversidade & inclusão_
+ 
+ [ :white_check_mark: ] 1-10: _Como trabalhar em equipe?_
+ 
+ [ :white_check_mark: ] 1-11: _Zuck Challenge-Projeto em grupo_
+ 
+ [ :white_check_mark: ] 1-12: _Desenvolvimento do projeto em grupo_
+ 
+ [ :white_check_mark: ] 1-13: _Apresentação do projeto_
+ 
+ [ :white_check_mark: ] 1-14: _Negociação_
+ 
+ [ :white_check_mark: ] 1-15: _Introdução a inteligência emocional_
+ 
+ [ :white_check_mark: ] 1-16: _Emoçôes_
+ 
+ [ :white_check_mark: ] 1-17: _História de vida_
+ 
+ [ :white_check_mark: ] 1-18: _Empatia_
+ 
+ [ :white_check_mark: ] 1-19: _Resiliêncai_
+ 
+ [ :white_check_mark: ] 1-20: _Talentos_
+ 
+ [ :white_check_mark: ] 1-21: _Valores_
+ 
+ [ :white_check_mark: ] 1-22: _Resiliência aplicação à gestão do tempo_
+ 
+ [ :white_check_mark: ] 1-23: _Dia inteiro de Eu e o Mundo
+
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### seção 1: Introdução ao Frontend e JavaScript assíncrono
+[ :white_check_mark: ] 1-1: _Ambiente de desanvolvimento_
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+[ :white_check_mark: ] 1-2: _JavaScript Assíncrono - Promisses e fetch_
 
-##### Bloco 12: React
+[ :white_check_mark: ] 1-3: _[Casa de câmbio]()_
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+[ :white_check_mark: ] 1-4: _Async, await e tests assíncronos_
 
-##### Bloco 13: React
+[ :white_check_mark: ] 1-5: _[Projeto - Carrinho de compras()_
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+##### seção 2: Introdução ao React
+[ :white_check_mark: ] 2-1: _'Hello, World!' no React!
 
-##### Bloco 14: Metodologias Ágeis
+[ :white_check_mark: ] 2-2: _Componentes React_
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+[ :white_check_mark: ] 2-3: _[Projeto - Solar System]()_
 
-##### Bloco 15: Testes em React
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+##### seção 3: Componentes com Estado, Eventos e Formulários com React
+[ :white_check_mark: ] 3-1: _Componentes com estado e eventos_
 
-##### Bloco 16: Introdução ao Redux
+[ :white_check_mark: ] 3-2: _Formulário no React_
+
+[ :white_check_mark: ] 3-3: _[Projeto - Tryunfo]()_
+
+
+##### seção 4: Ciclo de vida de Componentes e React Router
+[ :white_check_mark: ] 4-1: _Ciclo de vida de componentes_
+
+[ :white_check_mark: ] 4-2: _Render Router_
+
+[ :white_check_mark: ] 4-3: _[Projeto - TrybeTunes]()_
+
+##### seção 5: Metodologias Ágeis
+[ :white_check_mark: ] 5-1: _Metodologias Ágeis_
+
+[ :white_check_mark: ] 5-2: _[Projeto - Front-end Online Storage]()_ 
+
+
+##### seção 6: Testes automatizados com React Testing library
+[ :white_check_mark: ] 6-1: _RTL - Primeiros passos_
+
+[ :white_check_mark: ] 6-2: _RTL - Mocks e Inputs_
+
+[ :white_check_mark: ] 6-3: _RTL - Testando React Router_
+
+[ :white_check_mark: ] 6-4: _[Projeto - Testes em React]()_
+
+
+##### seção 7: Gerenciamento de estados com Redux
+
+- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+
+##### seção 8: React & Context API
+
+- [ ] 18-1: _Context API do React_
+- [ ] 18-2: _React Hooks - useState e useContext_
+- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+##### seção 9: Projeto Final de Front-end
+
+- [ ] 19-1: _[Projeto - App de Receitas]()_
+
+##### seção 10: Introdução ao Redux
 
 - [ ] 16-1: _Introdução ao Redux_
 - [ ] 16-2: _React com Redux - Parte 1_
@@ -148,21 +232,6 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 - [ ] 16-4: _React com Redux - Parte 2_
 - [ ] 16-5: _Testes síncronos com React-Redux_
 - [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
-
-##### Bloco 17: Projeto React
-
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
-
-##### Bloco 18: React & Context API
-
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
-
-##### Bloco 19: Projeto Final de Front-end
-
-- [ ] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
