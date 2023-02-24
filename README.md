@@ -360,20 +360,35 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: Introdução - Ciência da Computação
+##### seção 1: Introdução - Introdução à Python
+- [ ] 1-1: _Aprendendo Python_
+- [ ] 1-2: _Entrada e Saída de Dados_
+- [ ] 1-3: _Testes_
+- [ ] 1-4: _[Projeto - Job Insights]()_
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+##### seção 2: Padrões de Projeto
+- [ ] 2-1: _P.O.O em Python_
+- [ ] 2-2: _Padrões - Iterator, Adapter, Strategy_
+- [ ] 2-3: _Decorator, Observer, Factory_
+- [ ] 2-4: _[Projeto - Relatório de Estoque]()_
 
-##### Bloco 36: Python
+##### seção 3: Padrões de Projeto
+- [ ] 3-1: _Raspagem de Dados_
+- [ ] 3-2: _Outras Ferraments de Raspagem de Dados_
+- [ ] 3-3: _Dia de Atividades - Crawlers + POO_
+- [ ] 3-4: _[Projeto - Tech news]()_
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
+##### seção 4: Padrões de Projeto
+- [ ] 4-1: _Complexidade de Algoritimos_
+- [ ] 4-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 4-3: _Algoritimos de ordenção e busca_
+- [ ] 4-4: _[Projeto - Algoritimos]()_
 
-# [...]
+##### seção 5: Estrutura de dados I: Arrays, Listas, Filas e Pilhas
+- [ ] 5-1: _Arquitetura de Computadores_
+- [ ] 5-2: _Arquitetura de redes_
+- [ ] 5-3: _Arrays_
+- [ ] 5-4: _Nó e Listas Encadeadas_
+- [ ] 5-5: _Pilhas e Filas_
+- [ ] 5-6: _[Projeto - Ting - Trybe Is Not Google]()_
 
