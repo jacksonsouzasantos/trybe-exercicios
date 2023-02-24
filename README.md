@@ -8,8 +8,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
-
+#####  seção 1: Introdução - Unix & Shell
   [:white_check_mark:] 1-1: _Unix & Shell - Forma de interação via linha de comando_
 
   [:white_check_mark:] 1-2: _Git & GitHub - O que é para que serve_
@@ -17,8 +16,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
   [:white_check_mark:] 1-3: _Git & GitHub - Entendendo Comandos_
 
 
-##### Bloco 2: Introdução à HTML & CSS
-
+#####  seção 2: Introdução à HTML & CSS
  [:white_check_mark:] 2-1: _HTML & CSS - Estruturas da página_
  
  [:white_check_mark:] 2-2: _HTML & CSS - Primeiros passos em CSS_
@@ -31,8 +29,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
  
 
-##### Bloco 3: Introdução - JavaScript
-
+#####  seção 3: Introdução - JavaScript
  [:white_check_mark:] 3-1: _JavaScript - Primeiros passos_
  
  [:white_check_mark:] 3-2:  _JavaScript - Array e loop For_
@@ -46,8 +43,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [:white_check_mark:] 3-6:  _[Projeto - Playround Function]()_
 
 
-##### Bloco 4: JavaScript - Dom, Eventos e Web Storage
-
+##### seção 4: JavaScript - Dom, Eventos e Web Storage
  [:white_check_mark:] 4-1: _JavaScript - DOM e seletores_
  
  [:white_check_mark:] 4-2: _JavaScript - Trabalhando com elementos_
@@ -59,7 +55,6 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [:white_check_mark:] 4-5: _[Projeto - Arte com Pixels]()_
  
  ##### Projetos Bônus 
- 
  [  ] 4-6: _[Projeto - Lista de tarefas]()_
  
  [  ] 4-7: _[Projeto - Adivinhe a Cor]()_
@@ -69,8 +64,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [  ] 5-9: _[Projeto - Meme Generator]()_
  
 
-##### Bloco 5: HTML e CSS - Forms, Flexbox e Responsivo 
-
+#####  seção 5: HTML e CSS - Forms, Flexbox e Responsivo 
  [ :white_check_mark: ] 5-1: _HTML & CSS - Forms_
  
  [ :white_check_mark: ] 5-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -84,7 +78,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [ :white_check_mark: ] 5-6: _[Trybewarts]()_
  
 
-##### Bloco 6: JavaScript ES6 & Testes Unitários
+#####  seção 6: JavaScript ES6 & Testes Unitários
  [ :white_check_mark: ] 6-1: _Fluxo de exeções e manipulação de objetos_
  
  [ :white_check_mark: ] 6-2: _Primeiros passos em Jest_
@@ -94,7 +88,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [ :white_check_mark: ] 6-4: _[JavaScript Testes Unitários]()_
 
 
-##### Bloco 7: Higher Order Functions do JavaScript ES6
+##### seção 7: Higher Order Functions do JavaScript ES6
  [ :white_check_mark: ] 7-1: _Introdução a Higthe Order Functions
 
  [ :white_check_mark: ] 7-2: _Higher Order Function - sort e map_
@@ -106,10 +100,10 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  [ :white_check_mark: ] 7-5: _JavaScript ES6 - Array destructuring, Default destructuring, Objetct propery
  shorthand e default parameters
  
+ 
  [ :white_check_mark: ] 7-6 _[Projeto - Zoo functions()_
 
-## Soft Skills: Seção 1 - Eu e o Mundo :white_check_mark:
-
+## seção Soft Skills: Seção 1 - Eu e o Mundo :white_check_mark:
  [ :white_check_mark: ] 1-1: _Por que desenvolver soft skills?_
  
  [ :white_check_mark: ] 1-2: _Autoliderança_
@@ -193,6 +187,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 
 [ :white_check_mark: ] 4-3: _[Projeto - TrybeTunes]()_
 
+
 ##### seção 5: Metodologias Ágeis
 [ :white_check_mark: ] 5-1: _Metodologias Ágeis_
 
@@ -209,125 +204,128 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 [ :white_check_mark: ] 6-4: _[Projeto - Testes em React]()_
 
 
-##### seção 7: Gerenciamento de estados com Redux
+##### seção 7: Gerenciamento de estado com Redux
+[ :white_check_mark: ] 7-1: Introdução ao Redux - O estado global da aplicação
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+[ :white_check_mark: ] 7-2: Usando o Redux no React
+
+[ :white_check_mark: ] 7-3: Usando Redux no React - Action
+
+[ :white_check_mark: ] 7-4: Usando o Redux no React - Actions Assíncronas
+
+[ :white_check_mark: ] 7-5: Testas em React-Redux
+
+[ :white_check_mark: ] 7-6: _[Projeto - Trybe Wallet]()_
+
 
 ##### seção 8: React & Context API
+-[ :white_check_mark: ] 8-4: _[Projeto - Jogo de Trivia]()_
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### seção 9: Projeto Final de Front-end
+##### seção 9: API e React Hooks
+[ :white_check_mark: ] 9-1: React Hooks - useState e useEffect
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+[ :white_check_mark: ] 9-2: Context API
+
+[ :white_check_mark: ] 9-3: Custom Hooks
+
+[ :white_check_mark: ] 9-4:  _[Projeto - StrWards Datable com Context API e Hooks]()_
+
 
 ##### seção 10: Introdução ao Redux
+[ :white_check_mark: ] 10-1:  _[Projeto - App de Receitas]()_
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+#####  seção 1: Docker: Utilizando Containers - Docker
+- [ ] 1-1: _Utilizando Containers - Docker_
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [ ] 1-2: _Manipulando imagens no Docker_
 
-##### Bloco 21: Bancos de dados relacionais
+- [ ] 1-3: _Orquestrando Container com Docker compose_
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [ ] 1-4: _[Projeto - Docker Todo-List]()_
 
-##### Bloco 22: Bancos de dados relacionais
+##### seção 2: Introdução à SQL
+- [ ] 2-1: _Banco de dados SQL_
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [ ] 2-2: _Encontrando dados em uym banco de dados_
 
-##### Bloco 23: Introdução - NoSQL
+- [ ] 2-3: _Filtrando dados de forma específica_
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [ ] 2-4: _Manipulando tabelas_
 
-##### Bloco 24: Updates
+- [ ] 2-5: _[Projeto - All For One]()_
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
+##### seção 3: Funções SQL, JOINs e Normalização
+- [ ] 3-1: _Funções mais usadas no SQL_
 
-##### Bloco 25: Aggregation Framework
+- [ ] 3-2: _Descomplicando JOINs_
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
+- [ ] 3-3: _Transformando ideias em um modelo de banco de dados_
 
-##### Bloco 26: Intro - NodeJS
+- [ ] 3-4: _Aula ao vivo + [Projeto - One For All]()_
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
+##### seção 4: Introdução ao desenvolvimento Web com Node.js
+- [ ] 4-1: _MongoDB - Introdução_
+- [ ] 4-2: _Node.js: API REST com Express_
+- [ ] 4-3: _[Projeto - Data Flights]()_
+- [ ] 4-4: _Node.js: Espress e Middlewares_
+- [ ] 4-5: _Node.js: Express e MySQL_ 
+- [ ] 4-6: _[Projeto - Talker Manager]()_
 
-##### Bloco 27: NodeJS
+##### seção 5: Arquiterura de Software: Model, Service e Controller
+- [ ] 5-1: _Arquitetura de Software: Camada Model_
+- [ ] 5-2: _Arquitetura de Software: Camada Service_
+- [ ] 5-3: _Arquitetura de Software: Camada Contoller_
+- [ ] 5-4: _[Projeto - Store Maneger]()_
 
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
+##### seção 6: Node.js ORM e Autenticação
+- [ ] 1-1: _ORM - Interface da aplicação com o banco de dados_
+- [ ] 2-2: _ORM - Associations 1:1 e 1:N_
+- [ ] 2-3: _ORM - Associations N:N e Transactions_
+- [ ] 2-4: _JWT - (JOSON Web Token)_
+- [ ] 3-5: _[Projeto - API de Blogs]()_
 
-##### Bloco 28: NodeJS
+##### seção 7: Masterclass: Implatação de Aplicação na Nuvem
+- [ ] 7-1: _[Projeto - Infraestrutura: deploy com Raiway]()_
 
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+##### seção 8: Introdução a TypeScript
+- [ ] 1-1: _Introdução ao TypeScript_
+- [ ] 2-2: _Tipagem Estática e Generics_
+- [ ] 3-3: _Express com TypeScript_
+- [ ] 3-4: _[Projeto - Trybesmith]()_
 
-##### Bloco 29: NodeJS
+##### seção 9: Programação Orientada a Objetos (POO) e SOLID
+- [ ] 9-1: _Introdução à Orientação a Ojetos_
+- [ ] 9-2: _Herança e Composição_
+- [ ] 9-3: _Polimorfismo_
+- [ ] 9-4: _SOLID - introduçao e Princípis S, O e D_
+- [ ] 9-5: _SOLID - Princípios L e I_
+- [ ] 9-6: _[Projeto - Trybers and Dragons]()_
 
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
+##### seção 10: TFC - Trybe Futebol Clube
+- [ ] 10-1: _[Projeto - TFC - Trybe Futebol Clube]()_
 
-##### Bloco 30: Introdução - Deploy
+##### seção 11: Introdução ao MongoDB
+- [ ] 11-1: _MongoDB - introdução_
+- [ ] 11-2: _Filter Operators_
+- [ ] 11-3: _Operadores de consulta_
+- [ ] 11-4: _Upadate Simples_
+- [ ] 11-5: _Updates Complexos - Arrays_
+- [ ] 11-6: _[Projeto - Commerce]()_
 
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
+##### seção 12: APIs OO e NoSQL
+- [ ] 12-1: _APIs orientadas a objetos e NoSQL: POO e ODMs_
+- [ ] 12-2: _APIs orientadas a objetos e NoSQL: Herança e Abstração_
+- [ ] 12-3: _[Projeto - Car Shop]()_
 
-##### Bloco 31: Projeto
+##### Bloco 13: App de Delivery
+- [ ] 13-1: _[Projeto - App de Delivery]()_
 
-- [ ] 31-1: _[Projeto - Trybeer]()_
+##### seção SotfSkills 2 - Criatividade e Colaboração
 
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
