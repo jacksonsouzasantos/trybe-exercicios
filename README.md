@@ -392,3 +392,8 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 - [ ] 5-5: _Pilhas e Filas_
 - [ ] 5-6: _[Projeto - Ting - Trybe Is Not Google]()_
 
+
+##### seção 6: Estrutura de dados II: Hashmaps e Sets
+- [ ] 6-1: _Hashmap e Dict_
+- [ ] 6-2: _Set_
+- [ ] 6-3: _[Projeto - Ting - Restaurant Orders]()_
