@@ -325,7 +325,37 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 - [ ] 13-1: _[Projeto - App de Delivery]()_
 
 ##### seção SotfSkills 2 - Criatividade e Colaboração
+[ :white_check_mark: ] 2-1: _PDI - Segundo exercício_
 
+[ :white_check_mark: ] 2-2: _Introdução à criatividade_
+
+[ :white_check_mark: ] 2-3:  _Inovação e Brainstorming_
+
+[ :white_check_mark: ] 2-4: _Barreiras à Criatividade_
+
+[ :white_check_mark: ] 2-5: _Sessão de Pitacos_
+
+[ :white_check_mark: ] 2-6: _Introdução a colaboração_
+
+[ :white_check_mark: ] 2-7: _Evolição e Confiança_
+
+[ :white_check_mark: ] 2-8: _A importância da acertividade para a colaboração_
+
+[ :white_check_mark: ] 2-9: _Colaboração em times ágeis de desenvolvimento_
+
+[ :white_check_mark: ] 2-10: _Ideação_
+
+[ :white_check_mark: ] 2-11: _Colaboração medida por tecnologia_
+
+[ :white_check_mark: ] 2-12: _A importância do feedback na colaboração_
+
+[ :white_check_mark: ] 2-13: _Colaboração Criativa_
+
+[ :white_check_mark: ] 2-14: _Currículo de falhas_
+
+[ :white_check_mark: ] 2-15: _Mudando a rotina_
+
+[ :white_check_mark: ] 2-16: _Dia inteiro de Criatividade e Colaboração_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
