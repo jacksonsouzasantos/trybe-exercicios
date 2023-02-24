@@ -103,7 +103,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
  
  [ :white_check_mark: ] 7-6 _[Projeto - Zoo functions()_
 
-## seção Soft Skills: Seção 1 - Eu e o Mundo :white_check_mark:
+## Soft Skills: Seção 1 - Eu e o Mundo :white_check_mark:
  [ :white_check_mark: ] 1-1: _Por que desenvolver soft skills?_
  
  [ :white_check_mark: ] 1-2: _Autoliderança_
@@ -236,7 +236,7 @@ O programa conta com mais de 1.500 horas de aulas online, síncrona e asíncrona
 [ :white_check_mark: ] 10-1:  _[Projeto - App de Receitas]()_
 
 
-##### seção Sotf Skills:  seção 2 - Criatividade e Colaboração
+## Soft Skills: seção 2 - Criatividade e Colaboração
 [ :white_check_mark: ] 2-1: _PDI - Segundo exercício_
 
 [ :white_check_mark: ] 2-2: _Introdução à criatividade_
